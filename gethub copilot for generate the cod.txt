@@ -1,1 +1,0 @@
-gethub copilot: for generate the code 
